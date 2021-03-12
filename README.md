@@ -2,4 +2,6 @@
 
 **Script em python para localização de posições de hervs no genoma humano**
 
-![alt text](https://1.bp.blogspot.com/-1b7ChBflRCI/XWxKdHpvmuI/AAAAAAAAAv0/VcVhnu7lR5IrcIPZWmLiqM4LhOtoasEpACLcBGAs/s1600/istock_56013860_molecule_computer_2500.jpg)
+Endogenous retroviruses (ERVs) are endogenous viral elements in the genome that closely resemble and can be derived from retroviruses. They are abundant in the genomes of jawed vertebrates, and they comprise up to 5–8% of the human genome (lower estimates of ~1%). In this script our group (LaVi - UFSM) aim to make new discoveries in the human genome from hervs provided by a GTF file obtained from UCSC. The UCSC Genome Browser is developed and maintained by the Genome Bioinformatics Group, a cross-departmental team within the UCSC Genomics Institute.
+
+![alt text](https://www.verywellhealth.com/thmb/R6OsWGBjBD2KFtu_1_DYS9IHz0U=/700x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hiv-viruses--illustration-685027555-5a219e885b6e24001a632a6b.jpg)
